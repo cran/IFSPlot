@@ -1,0 +1,16 @@
+d4d5a5f40a3db5864aa232ed5318463c *DESCRIPTION
+7fa34a39b6039eaea4a90bba0994662e *NAMESPACE
+175e18f496a7e9340f0549af4b8fb48f *R/Plot.R
+65dba7c7caa8fc5314a4c094310ef2ab *R/RcppExports.R
+edc50aae6c055f1ae60bb5979db3e60c *inst/extdata/Fern2D.json
+d972142bb88a612d4ce1c0ba0069c5b0 *inst/extdata/Sierpinski3D.json
+7f0237809455e4a8c63e008c87cca7ef *inst/include/Matrix.hpp
+d1be03d9b1eb6b3b710c1465528f813f *man/IFSPlot-package.Rd
+79a73630e5fa1c311a1e0718c4ded481 *man/RunIFS2D.Rd
+251bd5cf9c4864054e4e5278c539f4e6 *man/RunIFS3D.Rd
+11ef33193df7303716d266a918bb5f1f *man/RunJSONIFS2D.Rd
+2726c5caea2bd738faca719261fcd6e0 *man/RunJSONIFS3D.Rd
+af8de059ba59d8ea3e9c8e683e936ca0 *src/IFS.cpp
+c77a4427f55b9a30b4a6a323d4bbe6e0 *src/Makevars
+c77a4427f55b9a30b4a6a323d4bbe6e0 *src/Makevars.win
+ea81f0292865b5d827d5610c41bbe2de *src/RcppExports.cpp
